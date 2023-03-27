@@ -24,6 +24,8 @@ Subir o arquivo docker-compose.yml com a base de dados que iremos utilizar no pr
     Organizar os dados transacionais em um diagrama para facilitar na conversão para analitico.
     
     
+    
+    
    ![Diagrama](https://user-images.githubusercontent.com/60200989/228056996-cd9692e8-fd8c-4463-82ec-3038acd8eea7.png)
     
   <h1>Quarta etapa<h1/>
