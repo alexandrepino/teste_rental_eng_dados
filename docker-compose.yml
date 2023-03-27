@@ -1,0 +1,45 @@
+version: '3'
+
+services:
+  transactional:
+    image: postgres:12
+    environment:
+      POSTGRES_DB: dvdrental
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+    volumes:
+      - postgres:/var/lib/postgresql/data
+      - ./data/dvdrental.sql:/docker-entrypoint-initdb.d/dvdrental.sql
+    ports:
+      - 5432:5432
+
+  analytics:
+    image: postgres:12
+    environment:
+      POSTGRES_DB: analytics
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+    ports:
+      - 5440:5432
+  pyspark-notebook:
+    image: jupyter/pyspark-notebook
+    container_name: pyspark-notebook
+    ports:
+      - "8889:8888"
+    volumes:
+      - ./notebooks:/home/jovyan/work
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+
+
+
+volumes:
+    postgres:
+    
+    
+
+
+      
+      
+
+
