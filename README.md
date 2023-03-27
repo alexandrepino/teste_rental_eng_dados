@@ -28,7 +28,7 @@ Subir o arquivo docker-compose.yml com a base de dados que iremos utilizar no pr
     
    ![Diagrama](https://user-images.githubusercontent.com/60200989/228056996-cd9692e8-fd8c-4463-82ec-3038acd8eea7.png)
     
-  <h1>Quarta etapa</h1>
+  <h2>Quarta etapa</h2>
     
    
     Conectar o banco de dados transacional com o pandas e converter as tabelas em um Dataframe para facilitar o tratamento.
