@@ -37,7 +37,7 @@ Subir o arquivo docker-compose.yml com a base de dados que iremos utilizar no pr
 ![Captura de tela de 2023-03-27 17-24-13](https://user-images.githubusercontent.com/60200989/228058043-7e289f98-2834-41c8-bca4-cc8f3ddc53df.png)
     
     
- <h2>Quinta etapa</h2>
+ <h1>Quinta etapa</h1>
       
  Depois de tratar os dados de todas as tabelas, criamos as DIMENSÕES e FATO e populamos o Database Analitico com esses dados.
       
@@ -46,7 +46,20 @@ Subir o arquivo docker-compose.yml com a base de dados que iremos utilizar no pr
    ![Captura de tela de 2023-03-27 17-27-34](https://user-images.githubusercontent.com/60200989/228059217-8df38519-56ff-4333-9250-92c61a3b5536.png)
 
 
-    
+<h1>Sexta Etapa</h1>
+
+Verificar as tabelas Dimensão e Fato no banco de dados analitico.
+
+
+![Captura de tela de 2023-03-27 17-37-13](https://user-images.githubusercontent.com/60200989/228060804-e39cffd5-f9af-438b-b106-aea6bd3dfe67.png)
+
+
+<h1>Setima etapa</h1>
+
+Montar o Diagrama em formato Analitico
+
+![WhatsApp Image 2023-03-27 at 14 56 37](https://user-images.githubusercontent.com/60200989/228061462-c2e0e68e-013c-47a6-b024-7b96caf11658.jpeg)
+
     
   
 
