@@ -37,12 +37,9 @@ Subir o arquivo docker-compose.yml com a base de dados que iremos utilizar no pr
 ![Captura de tela de 2023-03-27 17-24-13](https://user-images.githubusercontent.com/60200989/228058043-7e289f98-2834-41c8-bca4-cc8f3ddc53df.png)
     
     
-    <h2>Quinta etapa</h2>
+ <h2>Quinta etapa</h2>
       
- 
-      
-      
-     Depois de tratar os dados de todas as tabelas, criamos as DIMENSÕES e FATO e populamos o Database Analitico com esses dados.
+ Depois de tratar os dados de todas as tabelas, criamos as DIMENSÕES e FATO e populamos o Database Analitico com esses dados.
       
       
       
