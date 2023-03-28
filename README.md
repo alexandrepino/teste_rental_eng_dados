@@ -60,6 +60,12 @@ Montar o Diagrama em formato Analitico
 
 ![WhatsApp Image 2023-03-27 at 14 56 37](https://user-images.githubusercontent.com/60200989/228061462-c2e0e68e-013c-47a6-b024-7b96caf11658.jpeg)
 
+
+
+<h2>Arquitetura do projeto</h2>
+
+![Captura de tela de 2023-03-27 23-45-10](https://user-images.githubusercontent.com/60200989/228114112-9c24048f-b0d8-48c6-b66a-4fcb9e18f42d.png)
+
     
   
 
